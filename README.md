@@ -62,3 +62,4 @@ To use our salary prediction model, you can follow these steps:
 2. Install the required libraries listed in the `requirements.txt` file.
 3. Run the provided Jupyter notebook or Python script to load the model and make predictions on new data.
 
+update author name and repo details
